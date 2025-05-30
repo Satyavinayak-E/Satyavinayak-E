@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 ### Work Experience
-👨‍💻 Currently working as a Cloud Infrastructure Engineer at **MOVATE Technologies**.
+🧑‍💼 Currently working as a Cloud Infrastructure Engineer at **MOVATE Technologies**.
 ```
 💡 I build and manage cloud-native infrastructure with a focus on automation, performance, and security.
 🛠  Passionate about GCP, Terraform, CI/CD, and infrastructure design.
