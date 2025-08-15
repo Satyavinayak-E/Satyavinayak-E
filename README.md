@@ -63,6 +63,18 @@
  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
+### Tools 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🔐 IT Operations & Security
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-1BB55C?style=for-the-badge&logo=servicenow&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-FF6F00?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-228B22?style=for-the-badge&logo=internet-explorer&logoColor=white)
+![IP Addressing](https://img.shields.io/badge/IP_Addressing-0000FF?style=for-the-badge&logo=cisco&logoColor=white)
+![Security & Compliance](https://img.shields.io/badge/Security%20&%20Compliance-8B0000?style=for-the-badge&logo=security&logoColor=white)
 
 ## 🤝 Let's Connect
 
